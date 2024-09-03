@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90265396140",
+    "project_id": "fir-storeapp-3ca14",
+    "storage_bucket": "fir-storeapp-3ca14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90265396140:android:da9824b18c93dc309dd009",
+        "android_client_info": {
+          "package_name": "com.develop.contactapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIuPOxQvollScU4uNEjjdrUfTKok03p-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
