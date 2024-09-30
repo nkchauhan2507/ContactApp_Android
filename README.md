@@ -23,7 +23,7 @@ To properly configure your project, please ensure you add your own `google-servi
 
 1. **Download the File**: Obtain your `google-services.json` from the Firebase Console after setting up your project.
 
-2. **Location**: Place the `google-services.json` file in the following directory:
+2. **Location**:  place the downloaded `google-services.json` file into the root directory of your app module (usually located at `app/` in Android Studio).
 
 3. **File Name**: Ensure that the file is named exactly `google-services.json` without any additional characters.
 
